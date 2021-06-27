@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dawid and I am an Software Developer living in Germany
+My name is Dawid and I am an Software Developer based in Germany
 
 - 🔭 I’m currently working on: C# currency converter
 - 🌱 I’m currently learning: C# database intergration
